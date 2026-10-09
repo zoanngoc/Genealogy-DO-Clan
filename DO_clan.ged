@@ -1,191 +1,1244 @@
-0 HEAD
-1 SOUR Gramps
-2 VERS AIO64-6.0.8--1
-2 NAME Gramps
-1 DATE 30 SEP 2026
-2 TIME 09:04:02
-1 SUBM @SUBM@
-1 FILE E:\gia pha\gia pha Đỗ Thượng\DO_clan.ged
-1 COPR Copyright (c) 2026 .
+﻿0 HEAD
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
-0 @SUBM@ SUBM
-1 NAME
-0 @I0000@ INDI
-1 NAME Ông Cố Tổ /Đỗ/
+1 DEST MyFamilyTree
+1 SOUR MyFamilyTree
+2 VERS 16.2.0.0
+2 NAME My Family Tree
+2 CORP Chronoplex Software
+1 SUBM @U@
+1 DATE 9 OCT 2026
+2 TIME 10:51:18.697
+1 LANG English
+1 FILE DO_clan.ged
+0 @U@ SUBM
+1 NAME Unknown
+0 @I0@ INDI
+1 _UID 24c0eff7-b3ef-4f17-965e-cef5ca62b86d
+1 NAME Đỗ Chánh Tuyết (Đỗ Trung Học) (thứ Hai) //
 2 TYPE birth
-2 GIVN Ông Cố Tổ
-2 SPFX Đỗ
+2 GIVN Đỗ Chánh Tuyết (Đỗ Trung Học) (thứ Hai)
+2 _FIRN Đỗ Chánh Tuyết (Đỗ Trung Học) (thứ Hai)
 1 SEX M
-1 FAMS @F0000@
+1 BIRT
+2 DATE 1 JAN 1918
+2 _UID ceed4297-d81f-4154-8510-18195a7ddfc3
+1 DEAT
+2 DATE 1 JAN 1963
+2 _UID 862009b0-1f1a-45f4-a463-ad9323cc7b96
+1 FAMC @F1@
+1 FAMS @F0@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 12:39:54
-0 @I0001@ INDI
-1 NAME Bà Cố Tổ /Bà/
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I1@ INDI
+1 _UID 6361ee97-7904-48fa-bf73-1de2e1d4b4f0
+1 NAME Lê Thị Thâm //
 2 TYPE birth
-2 GIVN Bà Cố Tổ
-2 SPFX Bà
+2 GIVN Lê Thị Thâm
+2 _FIRN Lê Thị Thâm
 1 SEX F
-1 FAMS @F0000@
+1 BIRT
+2 DATE 1 JAN 1920
+2 _UID 3eef0c57-95cb-4095-ad14-d6ff3e4b6dfb
+1 DEAT
+2 DATE 1 JAN 1972
+2 _UID 77ee8745-00df-47e6-a38b-fef7eaf42496
+1 FAMS @F0@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 12:39:54
-0 @I0003@ INDI
-1 NAME Đỗ Chu /Đỗ/
-2 TYPE birth
-2 GIVN Đỗ Chu
-2 SPFX Đỗ
-1 SEX M
-1 FAMC @F0000@
-2 PEDI birth
-1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:50
-0 @I0004@ INDI
-1 NAME Đỗ Thượng /Đỗ/
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I2@ INDI
+1 _UID fc9cd9b3-435c-4fd6-845a-4e0922087a7b
+1 NAME Đỗ Thượng //
 2 TYPE birth
 2 GIVN Đỗ Thượng
-2 SPFX Đỗ
+2 _FIRN Đỗ Thượng
 1 SEX M
-1 FAMC @F0000@
-2 PEDI birth
-1 FAMS @F0001@
+1 DEAT Y
+1 FAMC @F8@
+1 FAMS @F1@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:50
-0 @I0005@ INDI
-1 NAME Đỗ Giàu /Đỗ/
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I3@ INDI
+1 _UID af76bc43-0dd9-4263-aec0-3661749c853b
+1 NAME Đỗ Thị Chữ (thứ Ba) //
+2 TYPE birth
+2 GIVN Đỗ Thị Chữ (thứ Ba)
+2 _FIRN Đỗ Thị Chữ (thứ Ba)
+1 SEX F
+1 DEAT Y
+1 FAMC @F1@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I4@ INDI
+1 _UID 5fdc118c-4f10-48ac-b6a7-d839f54c570d
+1 NAME Đỗ Thị Gương ( Ánh ) (thứ Tư) //
+2 TYPE birth
+2 GIVN Đỗ Thị Gương ( Ánh ) (thứ Tư)
+2 _FIRN Đỗ Thị Gương ( Ánh ) (thứ Tư)
+1 SEX F
+1 DEAT Y
+1 FAMC @F1@
+1 FAMS @F10@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @I5@ INDI
+1 _UID a77e7866-534f-4c78-a6de-0d8cd7e9826e
+1 NAME Đỗ Trung Lành (thứ Năm) //
+2 TYPE birth
+2 GIVN Đỗ Trung Lành (thứ Năm)
+2 _FIRN Đỗ Trung Lành (thứ Năm)
+1 SEX M
+1 DEAT Y
+1 FAMC @F1@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 08:16:03.577
+0 @I6@ INDI
+1 _UID 0ef1d301-8acf-4aaf-a9e1-f5bc182dd8b9
+1 NAME Đỗ Trung Ngôn (thứ Sáu) //
+2 TYPE birth
+2 GIVN Đỗ Trung Ngôn (thứ Sáu)
+2 _FIRN Đỗ Trung Ngôn (thứ Sáu)
+1 SEX M
+1 DEAT Y
+1 FAMC @F1@
+1 FAMS @F11@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 08:25:54.380
+0 @I7@ INDI
+1 _UID 784cf4cd-faac-4fa1-8ae9-cb82e94c9308
+1 NAME Antôn Đỗ Trung Hạnh (Đỗ Trung Chánh ) (thứ Bảy) //
+2 TYPE birth
+2 GIVN Antôn Đỗ Trung Hạnh (Đỗ Trung Chánh ) (thứ Bảy)
+2 _FIRN Antôn Đỗ Trung Hạnh (Đỗ
+2 _MIDN Trung Chánh ) (thứ Bảy)
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1933
+2 PLAC Gia Hựu - Bình Định
+2 _UID 9eeac654-9917-4277-bcb6-af02f08b8138
+1 DEAT
+2 DATE 9 APR 2001
+2 PLAC Cam Nghĩa - Cam Ranh - Khánh Hoà
+2 _UID 84049d78-e602-485a-9e36-1964b68ef16f
+1 FAMC @F1@
+1 FAMS @F9@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 08:16:03.577
+0 @I8@ INDI
+1 _UID 16cb18f0-06a1-44ab-ac58-7ecdcdcddd9b
+1 NAME Anê Phạm Thị Đây //
+2 TYPE birth
+2 GIVN Anê Phạm Thị Đây
+2 _FIRN Anê Phạm Thị Đây
+1 SEX F
+1 DEAT Y
+1 FAMS @F1@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I9@ INDI
+1 _UID 637e7814-b5b6-4ccd-9a1a-b66fecacaf18
+1 NAME Đỗ Giàu //
 2 TYPE birth
 2 GIVN Đỗ Giàu
-2 SPFX Đỗ
+2 _FIRN Đỗ Giàu
 1 SEX M
-1 FAMC @F0000@
-2 PEDI birth
+1 DEAT Y
+1 FAMC @F8@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:50
-0 @I0006@ INDI
-1 NAME Anes Phạm Thị Đây /Phạm/
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I10@ INDI
+1 _UID 5344c10e-ca09-461a-bef9-0f1d4df8a7dc
+1 NAME Đỗ Chu //
 2 TYPE birth
-2 GIVN Anes Phạm Thị Đây
-2 SPFX Phạm
-1 SEX F
-1 FAMS @F0001@
-1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 16:18:58
-0 @I0007@ INDI
-1 NAME Đỗ Chánh Tuyết /Đỗ Trung Học/ Thứ Hai
-2 TYPE birth
-2 GIVN Đỗ Chánh Tuyết
-2 SPFX Đỗ
-2 SURN Trung Học
-2 NSFX Thứ Hai
+2 GIVN Đỗ Chu
+2 _FIRN Đỗ Chu
 1 SEX M
-1 BIRT
-2 DATE 1918
-1 DEAT
-2 DATE 1963
-1 FAMC @F0001@
-2 PEDI birth
+1 DEAT Y
+1 FAMC @F8@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:33
-0 @I0008@ INDI
-1 NAME Đỗ Thị Chữ /Cô Ba (Bà Tuân)/
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I11@ INDI
+1 _UID 842ea632-b703-403f-9d3f-11f24bd3375b
+1 NAME Phaolô Đỗ Trung Hùng ( mất từ nhỏ ) //
 2 TYPE birth
-2 GIVN Đỗ Thị Chữ
-2 SPFX Cô Ba
-2 SURN (Bà Tuân)
-1 SEX F
-1 DEAT
-2 DATE 2025
-2 PLAC Cam Đức - Cam Lâm - Khánh Hòa
-1 FAMC @F0001@
-2 PEDI birth
+2 GIVN Phaolô Đỗ Trung Hùng ( mất từ nhỏ )
+2 _FIRN Phaolô Đỗ Trung Hùng ( mất từ nhỏ )
+1 DEAT Y
+1 FAMC @F9@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:33
-0 @I0009@ INDI
-1 NAME Đỗ Thị Gương /Cô Bốn (Bà Ánh)/
+2 DATE 1 OCT 2026
+3 TIME 09:01:15.081
+0 @I12@ INDI
+1 _UID 40305797-020f-42ee-984a-11c0c0258619
+1 NAME Phểrô Đỗ Trung Thạch ( mất từ nhỏ ) //
 2 TYPE birth
-2 GIVN Đỗ Thị Gương
-2 SPFX Cô Bốn
-2 SURN (Bà Ánh)
-1 SEX F
-1 DEAT
-2 DATE 2025
-2 PLAC Cam Đức - Cam Lâm - Khánh Hòa
-1 FAMC @F0001@
-2 PEDI birth
-1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:33
-0 @I0010@ INDI
-1 NAME Đỗ Thị Lành /Cô Năm/
-2 TYPE birth
-2 GIVN Đỗ Thị Lành
-2 SPFX Cô Năm
-1 SEX F
-1 DEAT
-2 TYPE Chết sớm
-1 FAMC @F0001@
-2 PEDI birth
-1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:33
-0 @I0011@ INDI
-1 NAME Đỗ Trung Ngôn /Chú, Bác Sáu (Ông Hoàng)/
-2 TYPE birth
-2 GIVN Đỗ Trung Ngôn
-2 SPFX Chú, Bác Sáu
-2 SURN (Ông Hoàng)
+2 GIVN Phểrô Đỗ Trung Thạch ( mất từ nhỏ )
+2 _FIRN Phểrô Đỗ Trung Thạch ( mất từ nhỏ )
 1 SEX M
-1 FAMC @F0001@
-2 PEDI birth
+1 DEAT Y
+1 FAMC @F9@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:33
-0 @I0012@ INDI
-1 NAME Antôn Đỗ Trung Hạnh /AnTôn Đỗ Trung Chánh (Bảy Ngọc)/
+2 DATE 1 OCT 2026
+3 TIME 09:01:15.081
+0 @I13@ INDI
+1 _UID 6ee87768-cd83-4fad-a527-eed04f203841
+1 NAME Gioan Đỗ Trung Ngọc "Bốn Ngọc" /(Bốn Ngọc)/
 2 TYPE birth
-2 GIVN Antôn Đỗ Trung Hạnh
-2 SPFX AnTôn Đỗ Trung Chánh
-2 SURN (Bảy Ngọc)
+2 GIVN Gioan Đỗ Trung Ngọc
+2 _FIRN Gioan Đỗ Trung Ngọc
+2 SURN (Bốn Ngọc)
+2 _RUFNAME Bốn Ngọc
+2 NOTE Sinh nhằm ngày 8 tháng Chín năm Quý Mão
 1 SEX M
 1 BIRT
-2 DATE 1933
-2 PLAC Tam Quan - Bình Định
+2 DATE 24 OCT 1963
+2 PLAC Hoài Châu - Bình Định
+2 _UID 1e4eca0c-daf4-4900-b9e1-e0d8a25500ec
+1 OCCU Đại Học
+2 _UID c9715718-0b79-463a-91fc-582fb4258523
+1 FACT
+2 TYPE contact address
+2 ADDR Tổ Dân Phố Nghĩa Bình, Phường Cam Nghĩa, Thành Phố Cam Ranh cũ, nay là Phường Bắc Cam Ranh
+2 PHON 0989979858
+2 EMAIL gdongoc@@gmail.com
+2 _UID 2f5a4c98-3bca-4fd2-aea0-36925cd1be87
+1 FAMC @F9@
+1 FAMS @F2@
+1 NOTE Sinh: 24/10/1963, nhắm ngày 8 tháng Chín năm Quý Mão, tại Gia Hựu, Hoài Châu, Hoài Nhơn, Bình Định.
+2 CONT Tiểu học: trường Qui Hiệp, nhà thờ Qui Hiệp, Qui Nhơn
+2 CONT 1974: vào lớp 6 Tiểu Chủng Viện Qui Nhơn
+2 CONT 1976-1977: lớp 7 + 8 trường pt Cam Đức Cam Ranh Khánh Hòa
+2 CONT 1978: lớp 9 trường cấp 2 Cam Nghĩa, Cam Ranh Khánh Hòa
+2 CONT 1979 - 1981: trường cấp 3 Phan Bội Châu Cam Ranh Khánh Hòa
+2 CONT 1981 - 1987: Đại học Bách Khoa Tp HCM
+2 CONT Hiện nay: nuôi trồng thủy sản
+2 _NSTY Y
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:01:15.081
+0 @I14@ INDI
+1 _UID d7fcc2bd-ec08-440b-bcfc-52d89f20b101
+1 NAME Maria Đỗ Thị Thanh Nga //
+2 TYPE birth
+2 GIVN Maria Đỗ Thị Thanh Nga
+2 _FIRN Maria Đỗ Thị Thanh Nga
+1 BIRT
+2 DATE 1 JAN 1967
+2 _UID 830bf0c6-6089-4cec-8181-24f6a6d58efa
+1 FAMC @F9@
+1 FAMS @F3@
+1 OBJE @M0@
+1 _PHOTO @M0@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:01:15.081
+0 @I15@ INDI
+1 _UID c35075df-c73f-4c1c-8223-aa5ec69fd5b5
+1 NAME Annê Đỗ Thị Thuý Nga //
+2 TYPE birth
+2 GIVN Annê Đỗ Thị Thuý Nga
+2 _FIRN Annê Đỗ Thị Thuý Nga
+1 BIRT
+2 DATE 1 JAN 1978
+2 _UID 1ee4981f-e8c4-4182-87f8-776b1dd483c8
+1 FAMC @F9@
+1 FAMS @F4@
+1 OBJE @M1@
+1 _PHOTO @M1@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:01:15.081
+0 @I16@ INDI
+1 _UID fffec0d3-ae0c-4ed9-a57c-98b17db12406
+1 NAME Matta Phạm Thị Nga //
+2 TYPE birth
+2 GIVN Matta Phạm Thị Nga
+2 _FIRN Matta Phạm Thị Nga
+1 SEX F
+1 BIRT
+2 DATE 7 MAR 1976
+2 PLAC Cam Đức - Cam Lâm - Khánh Hòa
+2 _UID fb630522-dfe7-4184-b929-dd85ba931c77
+1 OCCU Nội Trợ
+2 _UID 8884733f-fe9a-4164-89aa-7a2630d12abe
+1 FAMS @F2@
+1 NOTE Sinh nhằm ngày 7 tháng Hai năm Bính Thìn
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 08:45:54.879
+0 @I17@ INDI
+1 _UID f26bdfb8-a208-4cda-bc5d-79ce4cee1cff
+1 NAME Phaolo Đỗ Trung Ngọc Bảo "Bo" /(Bo)/
+2 TYPE birth
+2 GIVN Phaolo Đỗ Trung Ngọc Bảo
+2 _FIRN Phaolo Đỗ Trung Ngọc Bảo
+2 SURN (Bo)
+2 _RUFNAME Bo
+1 SEX M
+1 BIRT
+2 DATE 29 AUG 2004
+2 PLAC Cam Ranh - Khánh Hoà
+2 _UID e56553de-d46b-4d64-b517-6c0b3869bade
+1 OCCU Cao Đẳng
+2 _DATI V05T00S230111082018000000000000LE000100000000000000000000LT
+2 _UID 4725a437-593a-48a6-8dfb-ade52dcf996b
+1 FAMC @F2@
+1 NOTE Sinh nhằm ngày14 tháng 7 năm Giáp Thân
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 08:44:29.413
+0 @I18@ INDI
+1 _UID 9261c1df-76cc-470c-9a09-ac29f8740e4b
+1 NAME Annê Đỗ Ngọc Bảo Trâm /(Bé)/
+2 TYPE birth
+2 GIVN Annê Đỗ Ngọc Bảo Trâm
+2 _FIRN Annê Đỗ Ngọc Bảo Trâm
+2 SURN (Bé)
+1 SEX F
+1 BIRT
+2 _DATI V05T00S230111034643000000000000LE000100000000000000000000LT
+2 PLAC Cam Ranh - Khánh Hoà
+2 _UID 9d2cf8ac-c0d0-4a7e-b2b9-ba7a983194c7
+1 OCCU Đại Học
+2 _UID fb0efa20-0796-4b07-b28f-1c7d15a30530
+1 FAMC @F2@
+1 NOTE Sinh nhằm ngày 11 tháng Ba năm Bính Tuất
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 08:42:57.204
+0 @I19@ INDI
+1 _UID 48a14ff5-ce41-40c9-876f-f1b4e7cbfa6f
+1 NAME FX Phí Văn Tuyến //
+2 TYPE birth
+2 GIVN FX Phí Văn Tuyến
+2 _FIRN FX Phí Văn Tuyến
+1 BIRT
+2 DATE 1 JAN 1966
+2 _UID 01f185f1-f556-4079-9d9b-277fed68f8bc
+1 FAMS @F3@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I20@ INDI
+1 _UID 9d6be060-f840-47c0-9ccf-eab64ab2b955
+1 NAME Gioan Phí Đỗ Hồng Đức ( Bin ) //
+2 TYPE birth
+2 GIVN Gioan Phí Đỗ Hồng Đức ( Bin )
+2 _FIRN Gioan Phí Đỗ Hồng Đức ( Bin )
+1 BIRT
+2 DATE 1 JAN 1999
+2 _UID 2b11e5a3-bb2a-45fc-8ad4-8c471e19d80d
+1 FAMC @F3@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I21@ INDI
+1 _UID 5f5329ac-85a4-4042-8d9f-7c5e195b386b
+1 NAME Dominico Phí Đỗ Lâm Long ( Tin ) //
+2 TYPE birth
+2 GIVN Dominico Phí Đỗ Lâm Long ( Tin )
+2 _FIRN Dominico Phí Đỗ Lâm Long ( Tin )
+1 BIRT
+2 DATE 1 JAN 2008
+2 _UID 732fb55b-5de7-4a25-bd1e-f0043a92ace6
+1 FAMC @F3@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I22@ INDI
+1 _UID aa12f2d2-bd1d-4a2c-ab62-6ddbcca7d7a2
+1 NAME Philipphe Lê Nhật Hùng //
+2 TYPE birth
+2 GIVN Philipphe Lê Nhật Hùng
+2 _FIRN Philipphe Lê Nhật Hùng
+1 BIRT
+2 DATE 1 JAN 1969
+2 _UID d4cce50c-989b-4b5d-b666-80368f22dc97
+1 FAMS @F4@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I23@ INDI
+1 _UID ca101424-fa08-4cb2-89da-c36c96400356
+1 NAME Gioachim Lê Đỗ Nhật Thông //
+2 TYPE birth
+2 GIVN Gioachim Lê Đỗ Nhật Thông
+2 _FIRN Gioachim Lê Đỗ Nhật Thông
+1 BIRT
+2 DATE 1 JAN 2011
+2 _UID 7ddc2169-bd78-4c34-8edb-f2f68124f651
+1 FAMC @F4@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I24@ INDI
+1 _UID 3cfc2bff-55a1-44dc-ba1c-3ed396e01c3b
+1 NAME Maria Lê Đỗ Thuỳ Minh ( bé Mi ) //
+2 TYPE birth
+2 GIVN Maria Lê Đỗ Thuỳ Minh ( bé Mi )
+2 _FIRN Maria Lê Đỗ Thuỳ Minh ( bé Mi )
+1 BIRT
+2 DATE 1 JAN 2008
+2 _UID e015e752-88a0-4829-94ad-a23f17031c4e
+1 FAMC @F4@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I25@ INDI
+1 _UID daa8f31f-f8c5-49f8-b2eb-7ad56036bd28
+1 NAME Đỗ Thị Kim Lan ( Liên ) //
+2 TYPE birth
+2 GIVN Đỗ Thị Kim Lan ( Liên )
+2 _FIRN Đỗ Thị Kim Lan ( Liên )
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1946
+2 _UID c1e17462-7dde-43d0-8ef1-7324c2b6b714
 1 DEAT
-2 DATE 9 APR 2021
-2 PLAC Cam Nghĩa - Cam Ranh - Khánh Hòa
-1 FAMC @F0001@
-2 PEDI birth
+2 DATE 1 JAN 1972
+2 _UID eb9ace44-cd2e-49bf-a459-fa4d150bb709
+1 FAMC @F0@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:33
-0 @F0000@ FAM
-1 HUSB @I0000@
-1 WIFE @I0001@
-1 CHIL @I0003@
-1 CHIL @I0004@
-1 CHIL @I0005@
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I26@ INDI
+1 _UID f40a18cc-f26b-429e-8f2a-77c8adbefe32
+1 NAME Đỗ .... Sơn ( Mất từ nhỏ ) //
+2 TYPE birth
+2 GIVN Đỗ .... Sơn ( Mất từ nhỏ )
+2 _FIRN Đỗ .... Sơn ( Mất từ nhỏ )
+1 DEAT Y
+1 FAMC @F0@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:50
-0 @F0001@ FAM
-1 HUSB @I0004@
-1 WIFE @I0006@
-1 CHIL @I0007@
-1 CHIL @I0008@
-1 CHIL @I0009@
-1 CHIL @I0010@
-1 CHIL @I0011@
-1 CHIL @I0012@
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I27@ INDI
+1 _UID a419bc73-d777-432b-918b-65bf46711dad
+1 NAME Philipphe Đỗ Ngọc Linh ( Đỗ Trung Cảnh ) //
+2 TYPE birth
+2 GIVN Philipphe Đỗ Ngọc Linh ( Đỗ Trung Cảnh )
+2 _FIRN Philipphe Đỗ Ngọc Linh ( Đỗ
+2 _MIDN Trung Cảnh )
+1 SEX M
+1 BIRT
+2 DATE 17 JAN 1950
+2 PLAC Đức Phổ - Quảng Ngãi
+2 _UID 3f4210c1-681a-4f28-b7e1-45aa0a05401e
+1 FAMC @F0@
+1 FAMS @F5@
 1 CHAN
-2 DATE 29 SEP 2026
-3 TIME 22:10:33
+2 DATE 6 OCT 2026
+3 TIME 08:16:03.577
+0 @I28@ INDI
+1 _UID d30620a6-9b5c-4749-b54b-1430fe49a295
+1 NAME Đỗ Chánh Tùng ( Mất từ nhỏ ) //
+2 TYPE birth
+2 GIVN Đỗ Chánh Tùng ( Mất từ nhỏ )
+2 _FIRN Đỗ Chánh Tùng ( Mất từ nhỏ )
+1 SEX M
+1 DEAT Y
+1 FAMC @F0@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I29@ INDI
+1 _UID 7856fdbc-fb5a-4e42-a870-0c807c8657c4
+1 NAME Đỗ Chánh Thành //
+2 TYPE birth
+2 GIVN Đỗ Chánh Thành
+2 _FIRN Đỗ Chánh Thành
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1956
+2 _UID 2fc52773-4842-4109-b594-a7d5286c7c73
+1 DEAT
+2 DATE 1 JAN 1972
+2 _UID e8882d63-4724-4c6b-a71d-d50742ffce90
+1 FAMC @F0@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I30@ INDI
+1 _UID 5ca499ef-ac88-43a2-ac56-fbe5fcf4c526
+1 NAME Đỗ Chánh Hồng //
+2 TYPE birth
+2 GIVN Đỗ Chánh Hồng
+2 _FIRN Đỗ Chánh Hồng
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1958
+2 _UID 6adc0c15-3de8-420c-ba5c-2178fc001c40
+1 DEAT
+2 DATE 1 JAN 1972
+2 _UID 5605bd6c-f496-44b2-9d8e-97c3681f8567
+1 FAMC @F0@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I31@ INDI
+1 _UID 2d3f1430-ada6-454d-8c77-e45c21c986bf
+1 NAME Đỗ Thị Kim Cúc //
+2 TYPE birth
+2 GIVN Đỗ Thị Kim Cúc
+2 _FIRN Đỗ Thị Kim Cúc
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1960
+2 _UID 87b34821-8d4c-4853-8783-803cdcc98c8b
+1 DEAT
+2 DATE 1 JAN 1972
+2 _UID c7b01185-8cff-4fe6-a907-9772564aae0c
+1 FAMC @F0@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I32@ INDI
+1 _UID 805782ab-569b-40f2-8277-aefe4f333b6e
+1 NAME Nguyễn Thị Hưng //
+2 TYPE birth
+2 GIVN Nguyễn Thị Hưng
+2 _FIRN Nguyễn Thị Hưng
+1 SEX F
+1 BIRT
+2 DATE 4 JUL 1955
+2 PLAC Đức Phổ - Quảng Ngãi
+2 _UID d544c5d2-0283-4ad2-86f4-1bce6f8e404c
+1 FAMS @F5@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I33@ INDI
+1 _UID 6255594a-0811-45a9-852c-69e9b1921289
+1 NAME Đỗ Anh Tuấn //
+2 TYPE birth
+2 GIVN Đỗ Anh Tuấn
+2 _FIRN Đỗ Anh Tuấn
+1 BIRT
+2 DATE 6 DEC 1983
+2 PLAC Đức Phổ - Quảng Ngãi
+2 _UID 049086f3-bc1d-4a81-8041-13608284ebb0
+1 FAMC @F5@
+1 FAMS @F6@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I34@ INDI
+1 _UID 6a6d3c47-dbe3-4a3e-a7ae-5853fd1e61ba
+1 NAME Đỗ Anh Dũng //
+2 TYPE birth
+2 GIVN Đỗ Anh Dũng
+2 _FIRN Đỗ Anh Dũng
+1 BIRT
+2 DATE 26 AUG 1986
+2 PLAC Đức Phổ - Quảng Ngãi
+2 _UID d306d070-f401-4c88-8f71-b6e615c4d5b4
+1 FAMC @F5@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I35@ INDI
+1 _UID 6d84bfef-066c-4f75-bda8-d39fa91b8538
+1 NAME Đỗ Ngọc Vân Anh //
+2 TYPE birth
+2 GIVN Đỗ Ngọc Vân Anh
+2 _FIRN Đỗ Ngọc Vân Anh
+1 SEX F
+1 BIRT
+2 DATE 4 SEP 1989
+2 PLAC Đức Phổ - Quảng Ngãi
+2 _UID 78702969-60c6-45c3-be23-3e9d5a1a60cc
+1 FAMC @F5@
+1 FAMS @F7@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:10:43.047
+0 @I36@ INDI
+1 _UID 833f2969-926d-4660-892d-a0648bb3dc79
+1 NAME Vương Hoài Hoa //
+2 TYPE birth
+2 GIVN Vương Hoài Hoa
+2 _FIRN Vương Hoài Hoa
+1 BIRT
+2 DATE 1 JAN 1984
+2 _UID 8b702cf7-ab2b-4863-833e-23c84513d292
+1 FAMS @F6@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I37@ INDI
+1 _UID 47b9c64f-f9c9-4829-9e47-cb327551b2da
+1 NAME Đỗ Hạnh Dung //
+2 TYPE birth
+2 GIVN Đỗ Hạnh Dung
+2 _FIRN Đỗ Hạnh Dung
+1 BIRT
+2 DATE 7 SEP 2011
+2 _UID c7395e5a-cff7-44f6-a430-7bf88308da9c
+1 FAMC @F6@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I38@ INDI
+1 _UID c00b4ead-0fe7-4841-94c3-30c9a51cad72
+1 NAME Hồ Thanh Sang //
+2 TYPE birth
+2 GIVN Hồ Thanh Sang
+2 _FIRN Hồ Thanh Sang
+1 BIRT
+2 DATE 1 JAN 1987
+2 _UID 995a87e2-05c9-478e-99a2-9608a39f4159
+1 FAMS @F7@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I39@ INDI
+1 _UID 78d600e2-bcb4-4ebf-af17-d5133a12a171
+1 NAME //
+2 TYPE birth
+1 SEX M
+1 DEAT Y
+1 FAMS @F8@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I40@ INDI
+1 _UID b370aafa-8e6c-4057-a7b2-7141a8e5779c
+1 NAME //
+2 TYPE birth
+1 SEX F
+1 DEAT Y
+1 FAMS @F8@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @I41@ INDI
+1 _UID 62f99e8e-88ef-40fc-8d88-24e6ef0c1ffd
+1 NAME Gioan Đỗ Trung Gia Bảo "Ken" /(Ken)/
+2 TYPE birth
+2 GIVN Gioan Đỗ Trung Gia Bảo
+2 SURN (Ken)
+2 _RUFNAME Ken
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 2017
+2 PLAC Cam Ranh - Khánh Hoà
+2 _UID dcfb0ee5-2d66-4820-bd95-ffcb17f0a708
+1 OCCU Học Sinh
+2 _UID c0fb6d39-96a6-41b2-b39f-1740fb72bb63
+1 FAMC @F2@
+1 NOTE Sinh nhằm ngày 6 tháng Hai năm Đinh Dậu
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 08:44:29.413
+0 @I42@ INDI
+1 _UID 168b919c-f521-4886-a535-89f43ccac64f
+1 NAME Maria Đỗ Ngọc Quỳnh Trâm "Bé con" /(Bé con)/
+2 TYPE birth
+2 GIVN Maria Đỗ Ngọc Quỳnh Trâm
+2 SURN (Bé con)
+2 _RUFNAME Bé con
+1 SEX F
+1 BIRT
+2 DATE 20 SEP 2018
+2 PLAC Cam Ranh - Khánh Hoà
+2 _UID a883a929-7aae-4f4c-982f-78b7db45027d
+1 OCCU Học Sinh
+2 _UID e45124f9-d52f-47b5-8510-984daf615fbe
+1 FAMC @F2@
+1 NOTE Sinh nhằm ngày 11 tháng Tám năm Mậu Tuất
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 08:44:29.413
+0 @I43@ INDI
+1 _UID 79d107f1-c933-43f9-aa70-ae38d9970a0a
+1 NAME Anna Trương Thị Thích //
+2 TYPE birth
+2 GIVN Anna Trương Thị Thích
+1 SEX F
+1 BIRT
+2 DATE 1936
+2 PLAC Gia Hựu - Bình Định
+2 _UID 776d32fa-ba7c-44c9-95cc-6cfe0c20c123
+1 DEAT
+2 DATE 16 OCT 2025
+2 PLAC Cam Nghĩa - Cam Ranh - Khánh Hoà
+2 _UID b5228b4c-5b05-4215-b46b-f5a7052cd6c6
+1 FAMS @F9@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:01:15.081
+0 @I44@ INDI
+1 _UID d0c13a2e-d318-43fc-aa74-ce9388d90523
+1 NAME Võ giượng 4 //
+2 TYPE birth
+2 GIVN Võ giượng 4
+1 SEX M
+1 DEAT Y
+1 FAMS @F10@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @I45@ INDI
+1 _UID 6c518ab2-5983-4968-8798-7bd5f2ca8b61
+1 NAME Võ Thị Ánh //
+2 TYPE birth
+2 GIVN Võ Thị Ánh
+1 SEX F
+1 FAMC @F10@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @I46@ INDI
+1 _UID b109cec2-3975-4ced-bb26-eb393b847a06
+1 NAME Võ Văn Sáng //
+2 TYPE birth
+2 GIVN Võ Văn Sáng
+1 SEX M
+1 FAMC @F10@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @I47@ INDI
+1 _UID 109a5f6f-9099-4717-b23f-1764c98d3ab6
+1 NAME Võ Văn Tâm //
+2 TYPE birth
+2 GIVN Võ Văn Tâm
+1 SEX M
+1 DEAT Y
+1 FAMC @F10@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @I48@ INDI
+1 _UID c1cc95df-9828-4829-a81a-b3bf9263bef8
+1 NAME Võ Thị Lý //
+2 TYPE birth
+2 GIVN Võ Thị Lý
+1 SEX F
+1 FAMC @F10@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @I49@ INDI
+1 _UID d9c19882-fe32-4a18-9c9c-f47acecd0b70
+1 NAME Anna Võ Thị Thanh Hương //
+2 TYPE birth
+2 GIVN Anna Võ Thị Thanh Hương
+1 SEX F
+1 FAMC @F10@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @I50@ INDI
+1 _UID 13930f42-303f-414a-af8c-047803962bb9
+1 NAME Võ Văn Thông //
+2 TYPE birth
+2 GIVN Võ Văn Thông
+1 SEX M
+1 FAMC @F10@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @I51@ INDI
+1 _UID fd946b60-803b-4479-8230-b29eda6a838a
+1 NAME Maria Trương Thị Hạnh //
+2 TYPE birth
+2 GIVN Maria Trương Thị Hạnh
+1 SEX F
+1 DEAT
+2 DATE 17 MAR 2011
+2 PLAC Diên Tân - Diên Khánh - Khánh Hòa
+2 _UID e946a2ca-877f-4b1a-986d-3367c946ac73
+1 FAMS @F11@
+1 OBJE @M5@
+1 _PHOTO @M5@
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 06:26:08.376
+0 @I52@ INDI
+1 _UID 1b08207a-b52c-44e8-81b9-f16ee96125ed
+1 NAME Eduardus Đỗ Trung Hoàng (Đỗ Huy Hoàng) (Thứ Hai) //
+2 TYPE birth
+2 GIVN Eduardus Đỗ Trung Hoàng (Đỗ Huy Hoàng) (Thứ Hai)
+1 SEX M
+1 BIRT
+2 PLAC Gia Hựu - Bình Định
+2 _UID e876877c-d4dd-4e89-aab7-cadf785f21ce
+1 DEAT
+2 DATE 18 JUN 2015
+2 PLAC Diên Tân - Diên Khánh - Khánh Hòa
+2 _UID a6c02b55-92b0-4131-9a9d-38ebe786c1cb
+1 FAMC @F11@
+1 FAMS @F12@
+1 OBJE @M2@
+1 _PHOTO @M2@
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 06:31:43.736
+0 @I53@ INDI
+1 _UID 5056a6a2-082a-4129-8115-d2258fac7494
+1 NAME Đỗ Trung Long (Thứ Ba) //
+2 TYPE birth
+2 GIVN Đỗ Trung Long (Thứ Ba)
+1 SEX M
+1 DEAT Y
+1 FAMC @F11@
+1 OBJE @M3@
+1 _PHOTO @M3@
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 06:26:08.376
+0 @I54@ INDI
+1 _UID e1667706-2182-4411-98f2-5feccf70871e
+1 NAME Đỗ Trung Phi (THứ Tư) //
+2 TYPE birth
+2 GIVN Đỗ Trung Phi (THứ Tư)
+1 SEX M
+1 DEAT Y
+1 FAMC @F11@
+1 OBJE @M4@
+1 _PHOTO @M4@
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 06:26:08.376
+0 @I55@ INDI
+1 _UID 1664fd13-5848-4f49-8de5-eb241a24c32e
+1 NAME Maria Nguyễn Thị Thu //
+2 TYPE birth
+2 GIVN Maria Nguyễn Thị Thu
+1 SEX F
+1 FAMS @F12@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I56@ INDI
+1 _UID 2cdc83e2-639b-437e-8ef0-1e610385636b
+1 NAME Benedicto Đỗ Duy Tuấn (Thứ Hai) //
+2 TYPE birth
+2 GIVN Benedicto Đỗ Duy Tuấn (Thứ Hai)
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F13@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I57@ INDI
+1 _UID 33b75d6d-ad27-443b-825a-1e6fbb4005a5
+1 NAME Maria Lữ Thị Bích Hoa //
+2 TYPE birth
+2 GIVN Maria Lữ Thị Bích Hoa
+1 SEX F
+1 FAMS @F13@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I58@ INDI
+1 _UID 1ca9718e-d5b9-4777-aec1-6abf767a1d44
+1 NAME Maria Đỗ Thị Thùy Trang (Thứ Hai) //
+2 TYPE birth
+2 GIVN Maria Đỗ Thị Thùy Trang (Thứ Hai)
+1 SEX M
+1 FAMC @F13@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I59@ INDI
+1 _UID 620c777b-9865-4124-97fa-c03a376b945d
+1 NAME Maria Đỗ Thị Bích Ngọc (Thứ Ba) //
+2 TYPE birth
+2 GIVN Maria Đỗ Thị Bích Ngọc (Thứ Ba)
+1 SEX M
+1 FAMC @F13@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I60@ INDI
+1 _UID 625ecd61-20eb-400c-84c6-60920ea9270f
+1 NAME Phêrô Đỗ Đức Trọng (Thứ Tư) //
+2 TYPE birth
+2 GIVN Phêrô Đỗ Đức Trọng (Thứ Tư)
+1 SEX M
+1 FAMC @F13@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I61@ INDI
+1 _UID 5d71b506-814b-4cb7-ae19-b42e417a3769
+1 NAME Madalena Đỗ Thị Minh Tâm (Thứ Ba) //
+2 TYPE birth
+2 GIVN Madalena Đỗ Thị Minh Tâm (Thứ Ba)
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F14@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I62@ INDI
+1 _UID dadf8e28-de37-45f1-b9bf-25c89591fe29
+1 NAME Sêphano Lâm Thanh Hậu //
+2 TYPE birth
+2 GIVN Sêphano Lâm Thanh Hậu
+1 SEX M
+1 FAMS @F14@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I63@ INDI
+1 _UID 7347ca1b-d38f-4ed4-8045-64fd9e4aa7f5
+1 NAME Maria Lâm Thị Thanh Nhi (Thứ Hai) //
+2 TYPE birth
+2 GIVN Maria Lâm Thị Thanh Nhi (Thứ Hai)
+1 SEX M
+1 FAMC @F14@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I64@ INDI
+1 _UID 9bc2abb4-f040-44b4-8d17-5862bd604e42
+1 NAME Gioakim Lâm Hoàng Long (Thứ Ba) //
+2 TYPE birth
+2 GIVN Gioakim Lâm Hoàng Long (Thứ Ba)
+1 SEX M
+1 FAMC @F14@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I65@ INDI
+1 _UID f1f5345c-ade8-4950-a0b5-03d407328725
+1 NAME Gioakim Đỗ Duy Toàn (Thứ Tư) //
+2 TYPE birth
+2 GIVN Gioakim Đỗ Duy Toàn (Thứ Tư)
+1 SEX M
+1 FAMC @F12@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I66@ INDI
+1 _UID b26ec6ce-a0a5-4789-8ca5-2899253e4810
+1 NAME Anna Đỗ Trịnh Trà Mi (Thứ Hai) //
+2 TYPE birth
+2 GIVN Anna Đỗ Trịnh Trà Mi (Thứ Hai)
+1 SEX M
+1 FAMC @F16@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I67@ INDI
+1 _UID 8a8ceb2b-aaf5-427f-9f0e-a2c74ebd5ea8
+1 NAME Gioakim Đỗ Thành Nhân (Thứ Ba) //
+2 TYPE birth
+2 GIVN Gioakim Đỗ Thành Nhân (Thứ Ba)
+1 SEX M
+1 FAMC @F16@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I68@ INDI
+1 _UID 1b06a632-9fbd-453f-a791-c5a637c6773c
+1 NAME Maria Đỗ Thị Huỳnh Như (Thứ Năm) //
+2 TYPE birth
+2 GIVN Maria Đỗ Thị Huỳnh Như (Thứ Năm)
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F15@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I69@ INDI
+1 _UID 20563b56-54de-475f-abe6-dbd43cf84e2d
+1 NAME Phêrô Trần Trung Trực //
+2 TYPE birth
+2 GIVN Phêrô Trần Trung Trực
+1 SEX M
+1 FAMS @F15@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @I70@ INDI
+1 _UID ddd3d816-889f-44ce-95fc-a373aa1a5cbe
+1 NAME Maria Trần Ngọc Minh Khuê //
+2 TYPE birth
+2 GIVN Maria Trần Ngọc Minh Khuê
+1 SEX M
+1 FAMC @F15@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @F0@ FAM
+1 HUSB @I0@
+1 WIFE @I1@
+1 MARR
+2 TYPE marriage
+2 _UID 8ee1076c-8ab6-4b8d-9051-d4a710df0e82
+1 _MSTAT current
+1 CHIL @I25@
+1 CHIL @I27@
+1 CHIL @I29@
+1 CHIL @I30@
+1 CHIL @I31@
+1 CHIL @I26@
+1 CHIL @I28@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I8@
+1 MARR
+2 TYPE marriage
+2 _UID 417ccd89-6d3f-45c9-b65d-37db1049d77c
+1 _MSTAT current
+1 CHIL @I0@
+1 CHIL @I7@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+1 CHIL @I6@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F2@ FAM
+1 HUSB @I13@
+1 WIFE @I16@
+1 MARR
+2 TYPE marriage
+2 _UID 57561822-edec-47ab-9000-447f0c452ac4
+1 _MSTAT former
+1 CHIL @I17@
+1 CHIL @I18@
+1 CHIL @I41@
+1 CHIL @I42@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F3@ FAM
+1 HUSB @I14@
+1 WIFE @I19@
+1 MARR
+2 TYPE marriage
+2 _UID fa8d5b2e-e964-4aab-9712-deff1fefb53f
+1 _MSTAT current
+1 CHIL @I20@
+1 CHIL @I21@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F4@ FAM
+1 HUSB @I15@
+1 WIFE @I22@
+1 MARR
+2 TYPE marriage
+2 _UID 303d32f0-4813-41ec-9760-85387729cd6f
+1 _MSTAT current
+1 CHIL @I24@
+1 CHIL @I23@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F5@ FAM
+1 HUSB @I27@
+1 WIFE @I32@
+1 MARR
+2 TYPE marriage
+2 _UID 2a528949-b810-408b-b65a-9cdfa66dd5af
+1 _MSTAT current
+1 CHIL @I33@
+1 CHIL @I34@
+1 CHIL @I35@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F6@ FAM
+1 HUSB @I33@
+1 WIFE @I36@
+1 MARR
+2 TYPE marriage
+2 _UID 533b279f-d138-4fb3-8c14-60a27359664c
+1 _MSTAT current
+1 CHIL @I37@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F7@ FAM
+1 HUSB @I38@
+1 WIFE @I35@
+1 MARR
+2 TYPE marriage
+2 _UID abe8c07a-bb90-4017-b9bf-c557c279a5b6
+1 _MSTAT current
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F8@ FAM
+1 HUSB @I39@
+1 WIFE @I40@
+1 MARR
+2 TYPE marriage
+2 _UID 3822f830-a3c0-4c87-991e-b3c1f69e3ec5
+1 _MSTAT current
+1 CHIL @I2@
+1 CHIL @I9@
+1 CHIL @I10@
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+0 @F9@ FAM
+1 HUSB @I7@
+1 WIFE @I43@
+1 MARR
+2 TYPE marriage
+2 _UID fb56a311-fa5b-4f54-991f-bd6bb372860b
+1 _MSTAT current
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHAN
+2 DATE 1 OCT 2026
+3 TIME 09:01:15.081
+0 @F10@ FAM
+1 HUSB @I44@
+1 WIFE @I4@
+1 MARR
+2 TYPE marriage
+2 _UID ac6a58c5-4b2a-4470-a10a-9b789e28f5a6
+1 _MSTAT current
+1 CHIL @I45@
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I49@
+1 CHIL @I50@
+1 CHAN
+2 DATE 4 OCT 2026
+3 TIME 22:02:46.843
+0 @F11@ FAM
+1 HUSB @I6@
+1 WIFE @I51@
+1 MARR
+2 TYPE marriage
+2 _UID adc4d721-1938-4304-a4cc-32211d26a100
+1 _MSTAT current
+1 CHIL @I52@
+1 CHIL @I53@
+1 CHIL @I54@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 08:25:54.380
+0 @F12@ FAM
+1 HUSB @I52@
+1 WIFE @I55@
+1 MARR
+2 TYPE marriage
+2 _UID 50fe6701-9c4b-43b2-bf28-672c1f6c4240
+1 _MSTAT current
+1 CHIL @I56@
+1 CHIL @I61@
+1 CHIL @I65@
+1 CHIL @I68@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @F13@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 MARR
+2 TYPE marriage
+2 _UID 82271903-bd0e-4414-bf8f-03b7b41cd447
+1 _MSTAT current
+1 CHIL @I58@
+1 CHIL @I59@
+1 CHIL @I60@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @F14@ FAM
+1 HUSB @I61@
+1 WIFE @I62@
+1 MARR
+2 TYPE marriage
+2 _UID 2a85adea-8496-4170-b2f3-9356f7fac566
+1 _MSTAT current
+1 CHIL @I63@
+1 CHIL @I64@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @F15@ FAM
+1 HUSB @I68@
+1 WIFE @I69@
+1 MARR
+2 TYPE marriage
+2 _UID 0c0d1067-b5c6-47ab-978b-815b8a097276
+1 _MSTAT current
+1 CHIL @I70@
+1 CHAN
+2 DATE 6 OCT 2026
+3 TIME 09:00:00.600
+0 @F16@ FAM
+1 HUSB @I65@
+1 CHIL @I66@
+1 CHIL @I67@
+0 @M0@ OBJE
+1 FILE 57390406112016.jpg
+2 FORM jpg
+2 _FDTE V05T00S000106112016000000000000LE000100000000000000000000LT
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+1 _UID c86aba0b-cd2e-48fb-89ac-5c98cf006b5e
+0 @M1@ OBJE
+1 FILE 07131006112016.jpg
+2 FORM jpg
+2 _FDTE V05T00S000106112016000000000000LE000100000000000000000000LT
+1 CHAN
+2 DATE 28 SEP 2026
+3 TIME 10:09:12.841
+1 _UID f941a7e5-96bd-4bb0-a835-6c1688c5872d
+0 @M2@ OBJE
+1 FILE 2 hoàng.jpg
+2 FORM jpg
+2 _FDTE V05T00S000109102026000000000000LE000100000000000000000000LT
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 06:26:08.376
+1 _UID f8af2b21-51d5-43ea-8970-c6e90bffff81
+0 @M3@ OBJE
+1 FILE anh long.jpg
+2 FORM jpg
+2 _FDTE V05T00S000109102026000000000000LE000100000000000000000000LT
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 06:26:08.376
+1 _UID 279881de-faca-47e9-ab2c-17291a9d290e
+0 @M4@ OBJE
+1 FILE anh phi.jpg
+2 FORM jpg
+2 _FDTE V05T00S000109102026000000000000LE000100000000000000000000LT
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 06:26:08.376
+1 _UID af43e026-bbff-4515-a61e-e976a37b056c
+0 @M5@ OBJE
+1 FILE bác 6 gái.jpg
+2 FORM jpg
+2 _FDTE V05T00S000109102026000000000000LE000100000000000000000000LT
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 06:26:08.376
+1 _UID 012b3a48-e3eb-421a-985a-2a96b551e395
 0 TRLR
